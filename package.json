@@ -1,0 +1,13 @@
+{
+	"name": "auto-yarn",
+	"version": "1.0.0",
+	"description": "Tool for automatically detecting yarn over npm",
+	"bin": {
+		"auto-yarn": "./bin/auto-yarn.js"
+	},
+	"author": "Bryce Osterhaus",
+	"license": "MIT",
+	"dependencies": {
+		"cross-spawn": "^6.0.5"
+	}
+}
